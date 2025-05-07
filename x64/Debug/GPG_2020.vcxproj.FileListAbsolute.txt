@@ -1,0 +1,6 @@
+D:\24CI0229\ゲームプログラミング１(GPG1)\GPG1\課題16_1\x64\Debug\GPG_2020.exe
+D:\24CI0229\ゲームプログラミング１(GPG1)\GPG1\課題16_2\x64\Debug\GPG_2020.exe
+D:\24CI0229\ゲームプログラミング１(GPG1)\GPG1\課題SP2_5秒復活無敵の追加\x64\Debug\GPG_2020.exe
+D:\24CI0229\ゲームプログラミング１(GPG1)\GPG1\課題期末\x64\Debug\GPG_2020.exe
+D:\24CI0229\課題期末\x64\Debug\GPG_2020.exe
+E:\日本電子専門学校\ゲームプログラミング\GPG1\課題期末\x64\Debug\GPG_2020.exe
